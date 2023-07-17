@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\AJWA\source\repos\Snake and Ladder\Snake and Ladder\Source.cpp(72,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AJWA\source\repos\Snake and Ladder\Snake and Ladder\Source.cpp(174,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AJWA\source\repos\Snake and Ladder\Snake and Ladder\Source.cpp(33,6): warning C4101: 'location1': unreferenced local variable
+  Snake and Ladder.vcxproj -> C:\Users\AJWA\source\repos\Snake and Ladder\Debug\Snake and Ladder.exe
